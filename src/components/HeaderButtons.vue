@@ -53,10 +53,10 @@ const { currentTheme } = useSettings();
   </div>
   <a
     class="btn"
-    href="https://github.com/kacperwyczawski/autocut/commits/main/"
+    href="https://github.com/kacperwyczawski/zseco/commits/main/"
   >
     Changelog
   </a>
-  <a class="btn" href="https://github.com/kacperwyczawski/autocut">Source</a>
+  <a class="btn" href="https://github.com/kacperwyczawski/zseco">Source</a>
   <RouterLink to="/settings" class="btn">Settings</RouterLink>
 </template>
