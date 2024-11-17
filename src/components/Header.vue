@@ -11,7 +11,7 @@ const commitHash = __COMMIT_HASH__;
       <a
         href="https://github.com/kacperwyczawski/autocut/commits/main/"
         class="badge"
-        >EKOLOGICZNA UTYLIZACJA MATERIAŁÓW DRUKARSKICH</a
+        >ekologiczna utylizacja materiałów drukarskich</a
       >
     </div>
     <div class="navbar-end hidden md:flex gap-2">
