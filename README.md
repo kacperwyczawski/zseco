@@ -1,18 +1,6 @@
-# Features
+Software for "Transformacja Cyrkularna Biznesu" hackathon.
 
-- Website
-  - [x] Themes
-  - [x] Persistent settings
-  - [x] PWA
-  - [x] Shortcuts
-- Panels
-  - [x] Import / Export
-  - [x] Preview
-- Optimization
-  - [x] Panels
-  - [x] Cuts
-  - [ ] Edge reduction
-  - [x] Export
+Main version: [kacperwyczawski/autocut](https://github.com/kacperwyczawski/autocut).
 
 # License
 
