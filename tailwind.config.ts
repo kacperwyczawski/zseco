@@ -15,17 +15,7 @@ export default {
 	daisyui: {
 		themes: [
 			"light",
-			"dark",
-			"cupcake",
-			"bumblebee",
-			"synthwave",
-			"retro",
-			"cyberpunk",
-			"dracula",
-			"night",
-			"coffee",
-			"dim",
-			"nord",
+			"lemonade",
 			{
 				lime: {
 					primary: "#a3e635",
