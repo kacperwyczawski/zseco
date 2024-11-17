@@ -7,7 +7,7 @@ export default function useSettings() {
 	// App
 
 	const edgeReductionButtons = ref(
-		localStorage.getItem("edgeReductionButtons") || "Combined",
+		localStorage.getItem("edgeReductionButtons") || "Hidden",
 	);
 	watch(edgeReductionButtons, (x) => {
 		localStorage.setItem("edgeReductionButtons", x);
@@ -84,7 +84,7 @@ export default function useSettings() {
 
 	// Other
 
-	const currentTheme = ref(localStorage.getItem("currentTheme") || "retro");
+	const currentTheme = ref(localStorage.getItem("currentTheme") || "lime");
 	watch(currentTheme, (x) => {
 		localStorage.setItem("currentTheme", x);
 	});
