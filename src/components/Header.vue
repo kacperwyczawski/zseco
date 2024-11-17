@@ -6,7 +6,7 @@ const commitHash = __COMMIT_HASH__;
   <header class="navbar border-b border-base-300">
     <div class="navbar-start gap-2">
       <RouterLink to="/" class="text-3xl font-bold tracking-tight">
-        AutoCut
+        ZSEco
       </RouterLink>
       <a
         href="https://github.com/kacperwyczawski/autocut/commits/main/"
