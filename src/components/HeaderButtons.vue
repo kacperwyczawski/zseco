@@ -7,17 +7,7 @@ defineProps<{
 
 const themes = [
 	"light",
-	"dark",
-	"cupcake",
-	"bumblebee",
-	"synthwave",
-	"retro",
-	"cyberpunk",
-	"dracula",
-	"night",
-	"coffee",
-	"dim",
-	"nord",
+	"lemonade",
 	"lime", // additional custom theme
 ];
 
